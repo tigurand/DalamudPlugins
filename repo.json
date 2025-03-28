@@ -3,21 +3,21 @@
         "Author": "Lucille",
         "Name": "OopsAllNudist",
         "InternalName": "OopsAllNudist",
-        "AssemblyVersion": "2.0.3.4",
+        "AssemblyVersion": "2.0.3.5",
         "Description": "Turn everyone around you into a nudist.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
         "Tags": [
           "nudism"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/tigurand/OopsAllNudist/refs/heads/main/image/icon.png",
         "Punchline": "Turn everyone around you into a nudist.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/OopsAllNudist/releases/download/2.0.3.4/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/OopsAllNudist/releases/download/2.0.3.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/OopsAllNudist/releases/download/2.0.3.4/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/OopsAllNudist/releases/download/2.0.3.5/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/OopsAllNudist/releases/download/2.0.3.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/OopsAllNudist/releases/download/2.0.3.5/latest.zip"
     }
 ]
