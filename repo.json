@@ -24,7 +24,7 @@
         "Author": "Lucille",
         "Name": "XIV AI Companion",
         "InternalName": "XIVAICompanion",
-        "AssemblyVersion": "1.0.1.1",
+        "AssemblyVersion": "1.0.2.0",
         "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
@@ -38,8 +38,8 @@
         "Punchline": "If you're a loner like me, you probably want a personal AI companion.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/XIVAICompanion/releases/download/v1.0.1.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/XIVAICompanion/releases/download/v1.0.1.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/XIVAICompanion/releases/download/v1.0.1.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/XIVAICompanion/releases/download/v1.0.2.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/XIVAICompanion/releases/download/v1.0.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/XIVAICompanion/releases/download/v1.0.2.0/latest.zip"
     }
 ]
