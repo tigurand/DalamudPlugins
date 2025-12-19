@@ -3,22 +3,22 @@
         "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
         "Name": "OopsAllNudist",
         "InternalName": "OopsAllNudist",
-        "AssemblyVersion": "2.2.4.14",
+        "AssemblyVersion": "2.2.5.0",
         "Description": "Turn everyone around you into a nudist.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
         "Tags": [
           "nudism"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/tigurand/OopsAllNudist/refs/heads/main/image/icon.png",
         "Punchline": "Turn everyone around you into a nudist.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.2.4.14/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.2.4.14/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.2.4.14/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.2.5.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.2.5.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.2.5.0/latest.zip"
     },
     {
         "Author": "Lucille",
