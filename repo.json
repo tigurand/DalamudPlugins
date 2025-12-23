@@ -25,7 +25,7 @@
         "Name": "XIV AI Companion",
         "InternalName": "XIVAICompanion",
         "AssemblyVersion": "2.0.0.0",
-        "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires Google AI API key.\nWarning: Avoid sharing sensitive, confidential, or personal info with this AI, especially if you are using the free tier API.",
+        "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires API key.\nWarning: Avoid sharing sensitive, confidential, or personal info with this AI.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
         "Tags": [
