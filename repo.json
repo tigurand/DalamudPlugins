@@ -3,7 +3,7 @@
         "Author": "Lucille",
         "Name": "HotKeyIt",
         "InternalName": "HotKeyIt",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "Description": "Use hotkey on your keyboard to execute macro instead of using hotbar.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/tigurand/HotKeyIt",
@@ -17,9 +17,9 @@
         "Punchline": "Hotkey your macro.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/HotKeyIt/releases/download/v1.0.0.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/HotKeyIt/releases/download/v1.0.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/HotKeyIt/releases/download/v1.0.0.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/HotKeyIt/releases/download/v1.0.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/HotKeyIt/releases/download/v1.0.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/HotKeyIt/releases/download/v1.0.1.0/latest.zip"
     },
     {
         "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
