@@ -68,7 +68,7 @@
         "Author": "msew11, keifufu, Lucille",
         "Name": "Fake Name",
         "InternalName": "FakeName",
-        "AssemblyVersion": "0.3.0.0",
+        "AssemblyVersion": "0.3.1.0",
         "Description": "Change your and other peoples names in various UI elements!",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/tigurand/FakeName",
@@ -82,8 +82,8 @@
         "Punchline": "Show a fake name on your game ui.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/FakeName/releases/download/v0.3.0.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/FakeName/releases/download/v0.3.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/FakeName/releases/download/v0.3.0.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/FakeName/releases/download/v0.3.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/FakeName/releases/download/v0.3.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/FakeName/releases/download/v0.3.1.0/latest.zip"
     }
 ]
