@@ -3,7 +3,7 @@
         "Author": "Lucille",
         "Name": "HotKeyIt",
         "InternalName": "HotKeyIt",
-        "AssemblyVersion": "1.1.0.1",
+        "AssemblyVersion": "1.1.0.2",
         "Description": "Use hotkey on your keyboard to execute macro instead of using hotbar.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/tigurand/HotKeyIt",
