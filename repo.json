@@ -17,9 +17,9 @@
         "Punchline": "Hotkey your macro.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/HotKeyIt/releases/download/v1.1.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/HotKeyIt/releases/download/v1.1.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/HotKeyIt/releases/download/v1.1.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip"
     },
     {
         "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
@@ -38,9 +38,9 @@
         "Punchline": "Turn everyone around you into a nudist.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.3.2.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.3.2.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/OopsAllNudist/releases/download/v2.3.2.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/OopsAllNudist/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/OopsAllNudist/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/OopsAllNudist/releases/latest/download/latest.zip"
     },
     {
         "Author": "Lucille",
@@ -60,15 +60,15 @@
         "Punchline": "If you're a loner like me, you probably want a personal AI companion.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/XIVAICompanion/releases/download/v2.1.0.2/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/XIVAICompanion/releases/download/v2.1.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/XIVAICompanion/releases/download/v2.1.0.2/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/XIVAICompanion/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/XIVAICompanion/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/XIVAICompanion/releases/latest/download/latest.zip"
     },
     {
         "Author": "msew11, keifufu, Lucille",
         "Name": "Fake Name",
         "InternalName": "FakeName",
-        "AssemblyVersion": "0.3.1.1",
+        "AssemblyVersion": "0.3.1.2",
         "Description": "Change your and other peoples names in various UI elements!",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/tigurand/FakeName",
@@ -82,8 +82,8 @@
         "Punchline": "Show a fake name on your game ui.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/tigurand/FakeName/releases/download/v0.3.1.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/tigurand/FakeName/releases/download/v0.3.1.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/tigurand/FakeName/releases/download/v0.3.1.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/tigurand/FakeName/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/FakeName/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/FakeName/releases/latest/download/latest.zip"
     }
 ]
