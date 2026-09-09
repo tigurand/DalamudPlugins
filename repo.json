@@ -21,6 +21,28 @@
         "DownloadLinkTesting": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip"
     },
+	{
+        "Author": "Lucille",
+        "Name": "MapFocus",
+        "InternalName": "MapFocus",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Map QoL for FFXIV.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/tigurand/MapFocus",
+        "Tags": [
+          "qol",
+		  "map"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/tigurand/MapFocus/refs/heads/main/image/icon.png",
+        "Punchline": "Make map less annoying.",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/tigurand/MapFocus/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/tigurand/MapFocus/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tigurand/MapFocus/releases/latest/download/latest.zip"
+    },
     {
         "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
         "Name": "OopsAllNudist",
